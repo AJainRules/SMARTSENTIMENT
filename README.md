@@ -8,7 +8,7 @@ Deploy the smart contract to the blockchain.
 
 Interact with the smart contract from Google Colab.
 
-Step 1: Train Your Model in Google Colab.**
+**Step 1: Train Your Model in Google Colab.**
 
 **Step 2: Set Up a Blockchain Environment**
 
