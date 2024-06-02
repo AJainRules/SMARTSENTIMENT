@@ -101,6 +101,9 @@ Use ngrok URL in Colab: Connect to the public URL provided by ngrok from your Go
 <img width="594" alt="Screenshot 2024-06-02 at 12 41 49 PM" src="https://github.com/AJainRules/SMARTSENTIMENT/assets/47243898/fce9f70c-fddc-4884-b042-8011be836bbc">
 <img width="786" alt="Screenshot 2024-06-02 at 12 49 17 PM" src="https://github.com/AJainRules/SMARTSENTIMENT/assets/47243898/ca232e3e-1355-4fb7-9bf7-a59119363b81">
 <img width="557" alt="Screenshot 2024-06-02 at 12 47 09 PM" src="https://github.com/AJainRules/SMARTSENTIMENT/assets/47243898/7032df5a-8bf1-4030-bbca-662ab787375a">
+<img width="302" alt="Screenshot 2024-06-02 at 12 42 39 PM" src="https://github.com/AJainRules/SMARTSENTIMENT/assets/47243898/dd539f33-ce3b-4147-b04d-e4c281a24c29">
+
+
 
 
 
