@@ -93,3 +93,8 @@ In your Google Colab notebook, connect to the public URL provided.
 
 Expose Ganache to the Internet: Use ngrok to expose your local Ganache instance.
 Use ngrok URL in Colab: Connect to the public URL provided by ngrok from your Google Colab notebook.
+
+**Outouts**
+
+<img width="352" alt="Screenshot 2024-06-02 at 12 41 30 PM" src="https://github.com/AJainRules/SMARTSENTIMENT/assets/47243898/3aa8779b-e89b-49f9-98c9-a5ca5e456290">
+
